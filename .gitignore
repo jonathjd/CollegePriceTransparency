@@ -43,3 +43,6 @@ ipython_config.py
 
 # Windows specific files
 Thumbs.db
+
+# data
+InstitutionData2020-2021.csv
