@@ -46,3 +46,6 @@ Thumbs.db
 
 # data
 InstitutionData2020-2021.csv
+
+# config
+notebooks/config.py
